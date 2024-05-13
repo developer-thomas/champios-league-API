@@ -31,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
+$ git clone https://github.com/developer-thomas/node-typescript-boilerplate
 
 # Go into the repository
-$ cd node-blue-boilerplate
+$ cd node-typescript-boilerplate
 
 # Install dependencies
 $ npm install
